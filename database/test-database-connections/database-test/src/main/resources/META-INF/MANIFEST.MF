@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: migue
+Build-Jdk: 1.6.0_24
+Main-Class: com.liferay.support.database.TestOracleRac
+Class-Path: ojdbc14.jar groovy.jar
